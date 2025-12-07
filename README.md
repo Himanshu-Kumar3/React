@@ -1,2 +1,2 @@
 # React
-This is a repo for React 
+This is a repo for React.
